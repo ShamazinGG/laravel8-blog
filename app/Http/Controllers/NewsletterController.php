@@ -3,7 +3,6 @@
 namespace App\Http\Controllers;
 
 use App\Services\Newsletter;
-use Illuminate\Http\Request;
 use Illuminate\Validation\ValidationException;
 
 class NewsletterController extends Controller
